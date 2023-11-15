@@ -106,24 +106,19 @@ const props = defineProps({
 
 const project = ref([
   {
-    name: "บริการ 1",
+    name: "AI IN AGRICULTURE",
     project_file: "images/iconwebtechnopark/icon_home1.png",
-    url: "/",
+    url: "/services/1",
   },
   {
-    name: "บริการ 2",
+    name: "AI IN MANUFACTURING",
     project_file: "images/iconwebtechnopark/icon_home2.png",
-    url: "/",
+    url: "/services/2",
   },
   {
-    name: "บริการ 3",
+    name: "AI IN SELF-DRIVING VEHICLES",
     project_file: "images/iconwebtechnopark/icon_home3.png",
-    url: "/",
-  },
-  {
-    name: "บริการ 4",
-    project_file: "images/iconwebtechnopark/icon_home4.png",
-    url: "/",
+    url: "/services/3",
   },
 ]);
 </script>
